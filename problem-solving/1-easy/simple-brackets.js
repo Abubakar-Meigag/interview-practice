@@ -5,6 +5,8 @@
 // 		- Example 3: Input: s = "(())" Output: true
 // 		- Example 4: Input: s = "()(()" Output: false
 
+// Test with `npm test -- simple-brackets.test.js`
+
 function isBalanced(str) {
 }
 

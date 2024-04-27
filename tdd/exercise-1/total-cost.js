@@ -1,6 +1,8 @@
 // In a TDD-style, write a function which given a basket array, calculates and returns the total cost.
 //      The basket array is an array of objects, where each object contains a productId and an amount (and nothing else).
 
+// Run your tests using `npm test -- total-cost.test.js`
+
 const stockRoom = [
 	{
 		productId: 10001,

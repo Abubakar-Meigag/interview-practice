@@ -1,5 +1,7 @@
 const all = require('./users.json')
 
+// Run the code using `node refactoring/exercise-1/1-easy.js`
+
 // Function to print details of users that need to get a vaccine
 function run() {
     let output = ''
