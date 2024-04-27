@@ -17,7 +17,7 @@ test('simple case with open and close brackets', () => {
 })
 
 test('brackets must be in the correct order', () => {
-    expect(isBalanced('())(')).toBe(false)
+    expect(isBalanced('())(()')).toBe(false)
 })
 
 test('various balanced examples', () => {
